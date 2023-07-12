@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tarun0951&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tarun0951&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun0951&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   
-<img src="https://github.com/Tarun0951/Tarun0951/raw/main/images/footer.png" alt="footer" style="max-width: 100%;">
+<img src="https://github.com/Tarun0951/Tarun0951/raw/main/images/footer.png" alt="footer" style="max-width: 100%;"> 
 
 
 
